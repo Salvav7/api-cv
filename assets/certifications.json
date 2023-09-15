@@ -1,0 +1,20 @@
+{
+    "certificaciones": [
+      {
+        "titulo": "Certificación de Desarrollo Web",
+        "descripcion": "Certificación avanzada en desarrollo web frontend y backend utilizando tecnologías modernas.",
+        "ano": "2023"
+      },
+      {
+        "titulo": "Certificación de Gestión de Proyectos",
+        "descripcion": "Certificación en gestión de proyectos, incluyendo planificación, seguimiento y ejecución eficiente.",
+        "ano": "2024"
+      },
+      {
+        "titulo": "Certificación de Ciencia de Datos",
+        "descripcion": "Certificación en análisis de datos, aprendizaje automático y visualización de datos.",
+        "ano": "2025"
+      }
+    ]
+  }
+  

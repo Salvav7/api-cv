@@ -1,0 +1,36 @@
+{
+  "trabajos": [
+    {
+      "puesto": "Frontend developer",
+      "empresa": "Facebook Corp",
+      "fecha_ini": "08/2020",
+      "fecha_fin": "Present",
+      "ciudad": "San Francisco",
+      "pais": "USA",
+      "logros": [
+        {
+          "logro": "Home Page"
+        },
+        {
+          "logro": "Shopping Cart"
+        }
+      ]
+    },
+    {
+      "puesto": "Backend developer",
+      "empresa": "X Corp",
+      "fecha_ini": "08/2018",
+      "fecha_fin": "04/2020",
+      "ciudad": "Gdl",
+      "pais": "Mx",
+      "logros": [
+        {
+          "logro": "Shop web"
+        },
+        {
+          "logro": "app data"
+        }
+      ]
+    }
+  ]
+}
